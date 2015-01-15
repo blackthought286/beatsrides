@@ -1,0 +1,370 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"db",
+				"dbuser"
+			],
+			[
+				"fget",
+				"fgetcsv"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 116,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 201,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/autoloadprac/Student.php",
+		"/C/xampp/htdocs/autoloadprac/index.php",
+		"/C/xampp/htdocs/autoloadprac/load.php",
+		"/C/xampp/htdocs/autoloadprac/User.php",
+		"/C/Users/bigdaddy/Desktop/banner_sizes.txt",
+		"/C/xampp/htdocs/sexyhiphopmodels/index.php",
+		"/C/xampp/htdocs/sexyhiphopmodels/main.css",
+		"/C/Users/bigdaddy/Desktop/Social Media Accounts Info",
+		"/C/xampp/htdocs/sexyhiphopmodels/boo.css",
+		"/C/xampp/htdocs/sexyhiphopmodels/boo.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/featuretest/index.php",
+		"/C/xampp/htdocs/stylings/index.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/beatbytes/index.php",
+		"/C/xampp/htdocs/layouttest/index.php",
+		"/C/xampp/htdocs/sexyhiphopmodels/style.css",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/twentyfourteen/style.css",
+		"/C/Users/bigdaddy/Desktop/ups",
+		"/C/Users/bigdaddy/Desktop/Sites",
+		"/C/Users/bigdaddy/Desktop/TShirt",
+		"/C/xampp/htdocs/wordpress2014/wp-admin/themes.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/inc/structure/header.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/style.css",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/inc/customizer/controls.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/inc/customizer/js/customizer.js",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/inc/customizer/controls/layout.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/inc/customizer/controls/divider.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/inc/functions/extras.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/inc/functions/setup.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/inc/init.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/inc/admin/welcome-screen.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/inc/jetpack/jetpack.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/Gruntfile.js",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/index.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/header.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/inc/woocommerce/functions.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/template-homepage.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/template-fullwidth.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/loop.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/inc/customizer/custom-header.php",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/storefront/sass/modules/_mixins.scss",
+		"/C/xampp/htdocs/wordpress2014/wp-config.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/views/cats/single.blade.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/routes.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/ddd",
+		"/C/xampp/htdocs/testLaravel/cats/app/views/cats/index.blade.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/views/cats/edit.blade.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/database/seeds/BreedsTableSeeder.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/models/Breed.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/models/Cat.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/config/view.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/filters.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/config/database.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/database/migrations/2014_11_20_123044_add_cats_and_breeds_table.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/testLaravel/cats/app/start/local.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/start/global.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/config/app.php",
+		"/C/xampp/htdocs/testLaravel/cats/.gitignore",
+		"/C/xampp/htdocs/testLaravel/cats/app/controllers/HomeController.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/controllers/BaseController.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/views/master.blade.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/views/about.blade.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/views/hello.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/models/User.php",
+		"/C/xampp/htdocs/testLaravel/cats/app/database/production.sqlite",
+		"/C/xampp/apache/conf/httpd-vhosts.conf",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/wordpress2014/wp-content/themes/twentyfourteen/inc/back-compat.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/busiprof/index.php",
+		"/C/Users/bigdaddy/Downloads/derekchatmanmentors.wordpress.2014-05-15.xml",
+		"/C/xampp/htdocs/ebaythemes/halloween1/index.php",
+		"/C/xampp/htdocs/rustprac/main.rs",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/jw_options/index.php",
+		"/C/Users/bigdaddy/AppData/Local/Android/android-studio1/sdk/samples/android-L/ui/ActionBarCompat-Basic/ActionBarCompat-BasicSample/src/main/java/com/example/android/actionbarcompat/basic/MainActivity.java",
+		"/C/xampp/htdocs/The Unknown Kiss/unknown_outline",
+		"/C/xampp/htdocs/The Unknown Kiss/blurb.txt",
+		"/C/xampp/htdocs/Stepstowriting",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/busiprof/functions/theme_options/webriti/webriti_theme.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/busiprof/functions/theme_options/theme_options.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/dasefx/searchform.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/dasefx/index.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/dasefx/functions.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/dasefx/single.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/dasefx/search.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/dasefx/sidebar.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/dasefx/comments.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/dasefx/style.css",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/twentyfourteen/index.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/twentyfourteen/featured-content.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/minamaze/admin/main/framework.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/minamaze/admin/main/inc/validation/email/validation_email.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/minamaze/admin/main/inc/sysinfo.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/twentyfourteen/functions.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/twentyfourteen/css/editor-style.css",
+		"/C/xampp/htdocs/wordpress/wp-load.php",
+		"/C/xampp/htdocs/wordpress/index.php",
+		"/C/xampp/htdocs/wordpress/wp-blog-header.php",
+		"/C/xampp/htdocs/wordpress/wp-includes/functions.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/dasefx/page.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/dasefx/footer.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/dasefx/header.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/dasefx/404.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/twentyfourteen/footer.php",
+		"/C/xampp/htdocs/mypracticetheme/style.css",
+		"/C/xampp/htdocs/mypracticetheme/index.php",
+		"/C/xampp/htdocs/mypracticetheme/header.php",
+		"/C/xampp/htdocs/mypracticetheme/footer.php",
+		"/C/xampp/htdocs/mypracticetheme/sidebar.php",
+		"/C/xampp/htdocs/mypracticetheme/comments.php",
+		"/C/xampp/htdocs/mypracticetheme/searchbar.php",
+		"/C/xampp/htdocs/mypracticetheme/styles.css",
+		"/C/xampp/htdocs/cptest/cptest.php",
+		"/C/xampp/htdocs/learning-laravel/app/views/hello.php",
+		"/C/xampp/htdocs/learning-laravel/app/start/artisan.php",
+		"/C/xampp/htdocs/learning-laravel/app/start/local.php",
+		"/C/xampp/htdocs/learning-laravel/app/start/global.php",
+		"/C/xampp/htdocs/learning-laravel/bootstrap/paths.php",
+		"/C/xampp/htdocs/learning-laravel/app/views/master.blade.php",
+		"/C/xampp/htdocs/learning-laravel/app/config/auth.php",
+		"/C/xampp/htdocs/learning-laravel/app/views/hello.blade.php",
+		"/C/xampp/htdocs/learning-laravel/app/views/index.blade.php",
+		"/C/xampp/htdocs/learning-laravel/app/routes.php",
+		"/C/xampp/htdocs/learning-laravel/app/views/fakepost.php",
+		"/C/xampp/htdocs/learning-laravel/app/filters.php",
+		"/C/xampp/htdocs/learning-laravel/app/controllers/HomeController.php",
+		"/C/xampp/htdocs/learning-laravel/app/models/User.php",
+		"/C/xampp/htdocs/learning-laravel/app/storage/logs/laravel.log"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fade",
+			"$pagenow",
+			"sqlite",
+			"display_",
+			"meek"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.911190053286,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"views",
+				"app/views/hello.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true
+}
